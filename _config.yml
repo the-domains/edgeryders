@@ -1,4 +1,3 @@
-layout_spectrum: 0.424453042447567
 typography_spectrum: 0.6337852280121297
 color:
   brandStrength: 0.05844634701497853
@@ -11,4 +10,9 @@ color:
     - '#8364F4'
     - '#C1D7DE'
     - '#B7AADC'
+layout_spectrum: 0.424453042447567
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/accec61b-315e-4e86-a336-0d1134763c75.jpg
 name: Edgeryders
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8b562c0d-d97e-4c40-9ea3-ec6ffd410555.png
